@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Spawned998
 - 👀 I’m interested in becoming a better software developer.
-- 🌱 I’m currently assimilating C# basics.
-- 💞️ I’m looking to collaborate on life.
-- 📫 How to reach me:  Umm......
+- 🌱 I’m currently assimilating software development tools.
 
 <!---
 Spawned998/Spawned998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
